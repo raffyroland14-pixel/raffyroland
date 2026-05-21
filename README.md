@@ -2,7 +2,7 @@
 <h1>Computer Engineering Student <br/>
 <h2>👨‍💻Cybersecurity Projects </h2>
 
-  - [Introduction to Splun- Using search and Search Processing Language (SPL)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Introduction to Splunk- Using search and Search Processing Language (SPL)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📃Certifications</h2>
