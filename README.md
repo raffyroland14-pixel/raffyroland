@@ -7,7 +7,7 @@
 
 <h2>📃Certifications</h2>
 
-- [Introduction to Splunk](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Introduction to Splunk](https://github.com/raffyroland14-pixel/Introduction-to-Splunk-Certificate-)
 
 
 <h2> 🤳 Connect with me:</h2>
