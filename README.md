@@ -1,5 +1,5 @@
 <h1>Hi, I'm Raffy! <br/>
-<h1>Computer Engineering Student <br/>
+<h1> Engineering Student <br/>
 <h2>👨‍💻Cybersecurity Projects </h2>
 
   - [Introduction to Splunk- Using Search Processing Language (SPL)](https://github.com/raffyroland14-pixel/Introduction-To-Splunk-Lab/blob/main/README.md)
